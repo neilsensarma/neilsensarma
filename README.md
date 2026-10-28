@@ -42,7 +42,7 @@ A reproduction and exploratory analysis of single-cell RNA sequencing data from 
 
 **Tech:** R · Seurat · scRNA-seq · UMAP · Clustering · Differential Expression · Data Visualization
 
-### 🔥 Wildfire Occurrence Prediction (WiFOP)
+### 🔥 [Wildfire Occurrence Prediction (WiFOP)]:(https://github.com/neilsensarma/WiFOP.git)
 
 A machine learning project exploring wildfire occurrence prediction using environmental and geospatial features.
 

@@ -1,8 +1,8 @@
 # Hey there! I'm Nilavrah Sensarma 👋
 
-### Computational Scientist | Machine Learning & AI | Bioinformatics
+### Machine Learning & AI | Bioinformatics
 
-I'm a computational scientist and developer with dual Master's degrees in **Computational Science & Engineering** and **Bioinformatics** from the **Georgia Institute of Technology**. My work lies at the intersection of machine learning, artificial intelligence, and computational biology.
+I'm a graduate of the Georgia Institute of Technology with dual Master's degrees in **Computational Science & Engineering** and **Bioinformatics**. My work lies at the intersection of machine learning, artificial intelligence, and computational biology.
 
 I enjoy building intelligent systems, working with complex datasets, and translating research ideas into practical, reproducible solutions. My interests span **Machine Learning, Generative AI, LLMs, Data Science, Computational Genomics, and Cancer Bioinformatics**.
 
@@ -38,7 +38,6 @@ A reproduction and exploratory analysis of single-cell RNA sequencing data from 
 - Processed patient-level scRNA-seq datasets using **Seurat**.
 - Performed quality control, normalization, batch integration, dimensionality reduction, and clustering.
 - Identified cell populations using canonical marker genes and differential expression analysis.
-- Investigated cellular heterogeneity and tumor microenvironment composition across treatment groups.
 
 **Tech:** R · Seurat · scRNA-seq · UMAP · Clustering · Differential Expression · Data Visualization
 
@@ -50,7 +49,7 @@ A machine learning project exploring wildfire occurrence prediction using enviro
 - Applied feature engineering, classification algorithms, and model evaluation.
 - Evaluated predictive performance using ROC-AUC and precision-recall metrics.
 
-**Tech:** Python · scikit-learn · Machine Learning · Data Analysis
+**Tech:** Python · scikit-learn · Machine Learning Algorithms · Deep Learning Algorithms · Exploratory Data Analysis
 
 ---
 
@@ -59,9 +58,9 @@ A machine learning project exploring wildfire occurrence prediction using enviro
 | Area | Technologies |
 |---|---|
 | **Programming** | Python, R, Bash, SQL |
-| **Machine Learning & AI** | scikit-learn, TensorFlow, XGBoost, Sentence Transformers, LLMs, RAG |
+| **Machine Learning & AI** | scikit-learn, TensorFlow, SVM, Random Forests, XGBoost, Sentence Transformers, LLMs, RAG |
 | **LLM Infrastructure** | llama.cpp, ChromaDB, Cross-Encoder Reranking, Hugging Face |
-| **Bioinformatics** | Seurat, DESeq2, Nextflow, STAR, HISAT2, BWA-MEM, samtools, bcftools, VEP, SnpEff |
+| **Bioinformatics** | Seurat, DESeq2, Nextflow, STAR, HISAT2, BWA-MEM, samtools, bcftools, VEP, SnpEff, MaSuRCA, FastQC, VarScan2 |
 | **Development & Computing** | Git, GitHub, Linux, SLURM, Conda, Jupyter |
 | **Scientific Computing** | NumPy, pandas, SciPy, Data Visualization, Statistical Analysis |
 
@@ -74,7 +73,7 @@ A machine learning project exploring wildfire occurrence prediction using enviro
 
 **Vellore Institute of Technology** — Vellore, India
 
-- 🎓 B.Tech in Computer Science and Engineering, specializing in Bioinformatics
+- 🎓 B.Tech in Computer Science and Engineering with Specialization in Bioinformatics
 
 ---
 
@@ -86,6 +85,7 @@ I'm particularly interested in:
 - Developing trustworthy, grounded, and explainable LLM systems.
 - Applying machine learning to genomics, oncology, and precision medicine.
 - Bridging research, software engineering, and real-world problem solving.
+- Analysing multiomic data using computational workflows to derive meaningful biological insights.
 
 I'm always interested in learning new technologies, collaborating on challenging projects, and exploring opportunities in **Machine Learning, AI Engineering, Data Science, and Computational Biology**.
 

@@ -6,7 +6,7 @@ I'm a graduate of the Georgia Institute of Technology with dual Master's degrees
 
 I enjoy building intelligent systems, working with complex datasets, and translating research ideas into practical, reproducible solutions. My interests span **Machine Learning, Generative AI, LLMs, Data Science, Computational Genomics, and Cancer Bioinformatics**.
 
-Whether it's developing a retrieval-augmented generation system, analyzing single-cell transcriptomics data, or training predictive models, I love understanding how things work and building them from the ground up.
+Whether it's developing a retrieval-augmented generation system, analyzing single-cell transcriptomics data, driving precision medicine using advanced machine learning algorithms, or training predictive models, I love understanding how things work and building them from the ground up.
 
 ---
 

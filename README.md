@@ -96,5 +96,3 @@ I'm always interested in learning new technologies, collaborating on challenging
 - 📧 **Email:** [nilavrasensarma@gmail.com](mailto:nilavrasensarma@gmail.com)
 
 ---
-
-*Curious by nature. Driven by data. Always building, learning, and experimenting.*

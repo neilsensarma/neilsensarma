@@ -39,7 +39,7 @@ A reproduction and exploratory analysis of single-cell RNA sequencing data from 
 - Performed quality control, normalization, batch integration, dimensionality reduction, and clustering.
 - Identified cell populations using canonical marker genes and differential expression analysis.
 
-**Tech:** R · Seurat · scRNA-seq · UMAP · Clustering · Differential Expression · Data Visualization
+**Tech:** R · Seurat · scRNA-seq · UMAP · Clustering · Cell type annotation · Differential Expression · Data Visualization
 
 ### 🔥 [Wildfire Occurrence Prediction (WiFOP)](https://github.com/neilsensarma/WiFOP.git)
 

@@ -90,7 +90,7 @@ I'm particularly interested in:
 I'm always interested in learning new technologies, collaborating on challenging projects, and exploring opportunities in **Machine Learning, AI Engineering, Data Science, and Computational Biology**.
 
 ## 📫 Let's Connect!
-- 💼 **Portfolio** [Portfolio](neilsensarma.github.io)
+- 💼 **Portfolio:** [neilsensarma.github.io](https://neilsensarma.github.io/)
 - 💼 **LinkedIn:** [nilavra-sensarma](https://www.linkedin.com/in/nilavra-sensarma/)
 - 💻 **GitHub:** [neilsensarma](https://github.com/neilsensarma)
 - 📧 **Email:** [nilavrasensarma@gmail.com](mailto:nilavrasensarma@gmail.com)
